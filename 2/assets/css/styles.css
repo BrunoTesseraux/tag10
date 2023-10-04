@@ -1,0 +1,26 @@
+fieldset {
+  display: flex;
+}
+label,
+input,
+select {
+  display: block;
+}
+label {
+  margin: 6px;
+}
+input {
+  margin: 2px;
+}
+.flex {
+  display: flex;
+}
+label[for="pref"] {
+  margin-top: 25px;
+}
+label[for="field"] {
+  margin-top: 33px;
+}
+a {
+  text-decoration: none;
+}

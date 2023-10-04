@@ -1,0 +1,12 @@
+label,
+input,
+select {
+  display: inline-block;
+  margin: 1px;
+}
+label.width {
+  width: 150px;
+}
+p {
+  display: inline-block;
+}

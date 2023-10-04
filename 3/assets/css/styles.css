@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: white;
+}
+label,
+input {
+  display: block;
+  width: 95%;
+  height: 30px;
+  background-color: darkslategrey;
+  padding: 10px;
+  margin: 10px;
+  line-height: 5px;
+}
+div {
+  display: flex;
+  justify-content: center;
+}
+div a {
+  text-decoration: none;
+}
+section {
+  width: 25%;
+  margin: auto;
+  background-color: darkslategrey;
+  text-align: center;
+  height: 500px;
+  margin-top: 50px;
+}
+.log {
+  background-color: green;
+}
+section > a {
+  text-decoration: none;
+}
+
+button {
+  height: 50px;
+  width: 120px;
+  background-color: darkslategrey;
+  display: block;
+  margin: auto;
+}
+
+h1 {
+  padding-top: 30px;
+}
+a.pass {
+  color: pink;
+  text-decoration: underline;
+  text-align: right;
+}
