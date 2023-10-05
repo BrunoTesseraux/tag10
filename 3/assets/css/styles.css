@@ -9,7 +9,7 @@ input {
   display: block;
   width: 95%;
   height: 30px;
-  background-color: darkslategrey;
+  background-color: rgb(23, 32, 37);
   padding: 10px;
   margin: 10px;
   line-height: 5px;
@@ -24,7 +24,7 @@ div a {
 section {
   width: 25%;
   margin: auto;
-  background-color: darkslategrey;
+  background-color: rgb(23, 32, 37);
   text-align: center;
   height: 500px;
   margin-top: 50px;
@@ -39,7 +39,7 @@ section > a {
 button {
   height: 50px;
   width: 120px;
-  background-color: darkslategrey;
+  background-color: rgb(23, 32, 37);
   display: block;
   margin: auto;
 }
